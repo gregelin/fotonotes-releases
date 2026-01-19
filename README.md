@@ -1,2 +1,2 @@
-# photospeak-releases
-Host releases of PhotoSpeak
+# fotonotes-releases
+Host releases of fotonotes.
